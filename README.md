@@ -19,11 +19,6 @@ Este proyecto incluye un servicio de base de datos PostgreSQL configurado con Do
 
 ## Configuración del Proyecto
 
-1. **Clona el repositorio:**
-
-   ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <NOMBRE_DEL_DIRECTORIO>
 
 Instala las dependencias de Java:
 
