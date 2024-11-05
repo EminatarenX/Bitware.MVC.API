@@ -1,0 +1,1 @@
+INSERT INTO usuarios (id, nombre, email, password) VALUES (UUID(), 'Juan Perez', 'juan.perez@example.com', 'password123'),(UUID(), 'Maria Garcia', 'maria.garcia@example.com', 'password456'),(UUID(), 'Luis Rodriguez', 'luis.rodriguez@example.com', 'password789');
