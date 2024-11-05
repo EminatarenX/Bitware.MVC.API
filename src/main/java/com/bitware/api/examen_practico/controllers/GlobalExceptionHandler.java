@@ -1,5 +1,4 @@
 package com.bitware.api.examen_practico.controllers;
-
 import java.time.LocalDateTime;
 import java.util.stream.Collectors;
 import org.springframework.http.HttpStatus;
@@ -10,7 +9,6 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.context.request.ServletWebRequest;
 import org.springframework.web.context.request.WebRequest;
-
 import com.bitware.api.examen_practico.common.ApiError;
 import com.bitware.api.examen_practico.common.ResourceNotFoundException;
 
